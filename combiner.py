@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import sys
 
-x = "pornhun.com"
+x = "twitter.com"
 #y = x + ".".rstrip('\n')
 z = "." + x 
 #l = x + "-".rstrip('\n')
