@@ -1,4 +1,4 @@
-# BucketDetector
+# BucketDetector-Combiner
 
 BucketDetector
 
@@ -9,6 +9,16 @@ that will allow xss or get some critical files.
 <strong>USAGE:</strong>
 <p>
 <pre><code>python bucketfinder.py listofwebsites.txt</code></pre>
+
+
+Combiner
+
+Combiner is a tool, that can help you add subdomain prefixes in front of domain names. Like for example google.com to lol.google.com. For combiner to work you need to change x to a website and namelist to a list of prefixes
+
+<strong>USAGE:</strong>
+<p>
+<pre><code>python combiner.py</code></pre>
+
 
 Author: Thanasis Tserpelis aka trickster0
 
