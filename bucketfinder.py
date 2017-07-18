@@ -6,7 +6,8 @@ import ssl
 import socket
 
 bucket = []
-
+print "[+] S3 AWS Bucket Finder."
+print "Author Thanasis Tserpelis aka trickster0\r\n"
 if len(sys.argv) < 2:
 	print "\nUsage: " + sys.argv[0] + " websitelist\n"
 	sys.exit()
